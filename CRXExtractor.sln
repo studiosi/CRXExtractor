@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRXExtractor", "CRXExtractor.csproj", "{D5B16B3A-721B-4F7B-98CD-68699D723CB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5B16B3A-721B-4F7B-98CD-68699D723CB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B16B3A-721B-4F7B-98CD-68699D723CB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B16B3A-721B-4F7B-98CD-68699D723CB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B16B3A-721B-4F7B-98CD-68699D723CB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EB8C22E-6FF0-49BC-80DF-6E18CBFAF898}
+	EndGlobalSection
+EndGlobal
